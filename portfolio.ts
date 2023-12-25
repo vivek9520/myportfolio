@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi all, I'm Vivek",
   description:
     "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Spring boot, Angular,React js, Next js, Node js,  React.js and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
-  resumeLink: "#",
+  resumeLink: "https://drive.google.com/file/d/1P3uixob6_CvRbqFGrnodvtVAEy1mbwDd/view?usp=sharing",
 };
 
 export const openSource = {
@@ -42,18 +42,26 @@ export const skillsSection: SkillsSectionType = {
       title: "Full Stack Development",
       lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
       skills: [
-        emoji("⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"),
+        emoji("⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js and Angular"),
         emoji("⚡ Building responsive static websites using Next.js"),
-        emoji("⚡ Building RESTful APIs in Django & Django REST Framework"),
+        emoji("⚡ Building RESTful APIs in Spring Boot & Node js REST Framework"),
       ],
       softwareSkills: [
         {
-          skillName: "Python",
-          iconifyTag: "logos:python",
+          skillName: "Spring boot",
+          iconifyTag: "bxl:spring-boot",
+        },
+        {
+          skillName: "MySql",
+          iconifyTag: "logos:mysql",
+        },
+        {
+          skillName: "MongoDB",
+          iconifyTag: "devicon:mongodb-wordmark",
         },
         {
           skillName: "Node js",
-          iconifyTag: "vscode-icons:file-type-django",
+          iconifyTag: "logos:nodejs",
         },
         {
           skillName: "JavaScript",
@@ -72,8 +80,8 @@ export const skillsSection: SkillsSectionType = {
           iconifyTag: "logos:aws",
         },
         {
-          skillName: "Heroku",
-          iconifyTag: "logos:heroku-icon",
+          skillName: "Angular",
+          iconifyTag: "logos:angular-icon",
         },
         {
           skillName: "Github",
@@ -162,7 +170,7 @@ export const projects: ProjectType[] = [
     name: "my-portfolio",
     desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
     github: "https://github.com/vivek9520/myportfolio",
-    // link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    link: "https://vivekinfor.netlify.app",
   },
   {
     name: "Pac",
