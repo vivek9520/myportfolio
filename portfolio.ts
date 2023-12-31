@@ -160,7 +160,7 @@ export const experience: ExperienceType[] = [
     role: "Associate Software Engineer",
     company: "Devlabs Global (pvt) ltd",
     companyLogo: "/img/icons/common/devlabs.png",
-    date: "Jan 2021 - Jun 2022",
+    date: "June 2021 - Dec 2022",
     desc: "Specialized in e-commerce backend using Node.js, React.js. Expert in crafting RESTful APIs with MongoDB. Experienced with Docker for efficient containerization, focusing on robust backend solutions in my previous role.",
   },
 ];
