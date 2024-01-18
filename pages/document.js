@@ -7,7 +7,7 @@ class MyDocument extends Document {
       <Html>
         <Head>
           {/* Add your meta tags or other head elements here */}
-          <meta name="description" content="Your meta description" />
+          <meta name="google-site-verification" content="sanq0hvF03vMkjZZXMwwklzWL9eFbve710hgt5HUkGw" />
           {/* Other meta tags or elements go here */}
         </Head>
         <body>
