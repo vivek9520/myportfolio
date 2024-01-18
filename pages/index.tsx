@@ -15,6 +15,7 @@ import { GithubUserType } from "../types";
 export default function Home({ githubProfileData }: { githubProfileData: any }) {
   return (
     <div>
+      <meta name="google-site-verification" content="sanq0hvF03vMkjZZXMwwklzWL9eFbve710hgt5HUkGw" />
       <SEO />
       <Navigation />
       <Greetings />
